@@ -26,6 +26,9 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 4. Click Play
 
+**Note** NBodySim script is the main effect script and is attached to the OVR Camera.
+` Hierarchy > OVRPlayerController > OVRCameraRig > CenterEyeAnchor `
+
 ### Backstory
 
 * Originally inspired by [Chapter 31 of NVIDIA's GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch31.html) (Mar 16, 2007)
