@@ -1,6 +1,7 @@
 #GPU Gems to Unity(5) - VR Experiments
 
 A repo of simple Unity VR experiments using existing GPU Gems code. 
+
 **Credit:** [ScrawkBlog](http://scrawkblog.com), [NVIDIA Developer Zone](https://developer.nvidia.com/)
 
 For now this repo only consists of one Unity 5 project, but I might add more in the future.
@@ -8,6 +9,7 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 ##1. NBodySim
 
 [![ScreenShot](http://img.youtube.com/vi/UKTLrZ07qpQ/0.jpg)](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
+
 [Youtube Preview](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
 
 ### Requirements
@@ -15,7 +17,7 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 * Unity v5 +
 * Oculus SDK v0.8.0.0
 
-**Note** Technically this project will run without a HMD, but that kind of defeats the purpose. :P
+**Note:** Technically this project will run without a HMD, but that kind of defeats the purpose. :P
 
 ### Setup / Running
 
