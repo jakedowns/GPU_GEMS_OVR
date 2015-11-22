@@ -12,6 +12,8 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 [Youtube Preview](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
 
+[![ScreenShot-2](screenshot.png)](https://raw.githubusercontent.com/jakedowns/GPU_GEMS_OVR/master/screenshot.png)
+
 ### Requirements
 
 * Unity v5 +
