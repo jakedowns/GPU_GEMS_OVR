@@ -8,9 +8,9 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 ##1. NBodySim
 
-[![ScreenShot](http://img.youtube.com/vi/UKTLrZ07qpQ/0.jpg)](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
+[Click here to view a Youtube video of this project in action...](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
 
-[Youtube Preview](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
+[![ScreenShot](http://img.youtube.com/vi/UKTLrZ07qpQ/0.jpg)](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
 
 [![ScreenShot-2](screenshot.png)](https://raw.githubusercontent.com/jakedowns/GPU_GEMS_OVR/master/screenshot.png)
 
