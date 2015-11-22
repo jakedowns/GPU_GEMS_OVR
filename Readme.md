@@ -33,7 +33,7 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 * Originally inspired by [Chapter 31 of NVIDIA's GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch31.html) (Mar 16, 2007)
 
-* Original source code provided by Justin Hawkins from his ScrawkBlog post, [GPU gems to Unity: NBody simulation](scrawkblog.com/2014/02/07/gpu-gems-to-unity-nbody-simulation/) (February 7, 2014)
+* Original source code provided by Justin Hawkins from his ScrawkBlog post, [GPU gems to Unity: NBody simulation](http://scrawkblog.com/2014/02/07/gpu-gems-to-unity-nbody-simulation/) (February 7, 2014)
 
 * November 21, 2015: I updated Scrawk's project files to work with the Oculus Rift DK2
  * Updated Project to **Unity v5.2.2p4**
