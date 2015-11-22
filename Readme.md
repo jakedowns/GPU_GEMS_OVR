@@ -7,7 +7,8 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 ##1. NBodySim
 
-![screenshot](screenshot.png)
+[![ScreenShot](http://img.youtube.com/vi/UKTLrZ07qpQ/0.jpg)](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
+[Youtube Preview](https://www.youtube.com/watch?v=UKTLrZ07qpQ)
 
 ### Requirements
 
