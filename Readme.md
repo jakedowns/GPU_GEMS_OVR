@@ -16,6 +16,8 @@ For now this repo only consists of one Unity 5 project, but I might add more in 
 
 ### Requirements
 
+* Windows :'(
+* DirectX 11+ compatible video card
 * Unity v5 +
 * Oculus SDK v0.8.0.0
 
